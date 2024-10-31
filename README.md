@@ -1,1 +1,1 @@
-# MATLAB
+# This repository stores all the MATLAB programs I have written, mainly from my MATLAB course I took in university. Some programs that this repository contains includes downscaling and upscaling images, modelling probability distribution, using Discrete Cosine Transform (DCT) and more.
